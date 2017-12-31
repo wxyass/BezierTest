@@ -3,6 +3,9 @@ package com.wxyass.beziertest;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
+/**
+ * 路径变换动画
+ */
 public class PathMorthingActivity extends AppCompatActivity {
 
     @Override

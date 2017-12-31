@@ -5,6 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.wxyass.beziertest.R;
 
+/**
+ * 波浪效果
+ */
 public class WaveActivity extends AppCompatActivity {
 
     @Override
