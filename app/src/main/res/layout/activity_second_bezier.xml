@@ -10,6 +10,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".SecondBezierActivity">
 
-
+    <com.wxyass.beziertest.views.SecondBezierView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
 
 </RelativeLayout>
